@@ -1,0 +1,1 @@
+# mnemonic-server-name-word-list
