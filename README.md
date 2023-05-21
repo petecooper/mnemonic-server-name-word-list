@@ -1,5 +1,7 @@
 # mnemonic-server-name-word-list
 
+https://github.com/petecooper/mnemonic-server-name-word-list
+
 ## v1.0.0
 Straight rip & sort from v0.732 of Oren Tirosh's "Mnemonic Encoder" wordlist:
 
