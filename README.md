@@ -4,7 +4,9 @@ https://github.com/petecooper/mnemonic-server-name-word-list
 
 ## v2.0.0
 
-Work in progress.
+Work in progress. Stuff may break.
+
+* Removed `dist/wordlist-original.txt`.
 
 ## v1.0.0
 Straight rip & sort from v0.732 of Oren Tirosh's "Mnemonic Encoder" wordlist:
