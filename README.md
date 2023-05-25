@@ -1,4 +1,4 @@
-# mnemonic-server-name-word-list
+# (Mnemonic) Server Name Word List
 
 https://github.com/petecooper/mnemonic-server-name-word-list
 
