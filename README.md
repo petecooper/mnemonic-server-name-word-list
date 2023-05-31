@@ -2,7 +2,7 @@
 
 https://github.com/petecooper/mnemonic-server-name-word-list
 
-## v2.0.0 (Upcoming)
+## v2.0.0 (WIP)
 
 Work in progress. Stuff may break.
 
